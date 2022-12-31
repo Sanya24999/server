@@ -284,8 +284,8 @@
    "Servers":{
       "Official":[
          {
-			"Address": "194.147.90.20",
-			"Port": 35000,
+			"Address": "s5.hkshost.ru",
+			"Port": 28001,
 			"Tags": ""
          },
          {
